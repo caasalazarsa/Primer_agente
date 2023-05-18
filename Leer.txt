@@ -1,0 +1,9 @@
+Dependencias:
+Jupyter Notebook
+Opencv
+libtiff
+matplotlib
+
+El archivo trabajado se llama Tifftesting.ipynb
+En este archivo se encuentra un proceso de extracción de características para el embalse la copa para armar un agente con una red neuronal ordinara, como trabajo futuro
+está realizar un trabajo con redes neuronales convolucionadas para regresión.
